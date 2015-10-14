@@ -1,0 +1,54 @@
+* body {margin: 0;}
+
+#container {
+	margin: 30px 0px 0px 0px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.nav {
+	float: right;
+}
+
+.set {
+	padding: 10 10 10 10;
+	display: inline-block;
+}
+
+.title {
+	font-size: 30px;
+	color: blue;
+}
+
+.sub {
+	font-size: 20px;
+	color: purple;
+}
+
+.set:hover {
+	color: pink;
+}
+
+#main {
+	clear: both;
+	margin: 0px 0px 0px 30px;
+}
+
+.left {
+	float: left;
+	width: 40%;
+}
+
+.right {
+	float: right;
+	width: 40%;
+}
+
+#rule {
+	clear: both;
+	width: 1000px;
+	height: 2px;
+	background: black;
+}
